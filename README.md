@@ -19,6 +19,4 @@ A console-based digital wallet system developed in Java. This project allows use
 
 This project was built to practice Java fundamentals, class design, and transaction logic.
 
-## Notes
 
-This is a beginner-level project focused on backend logic and problem solving.
